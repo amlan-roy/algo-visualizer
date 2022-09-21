@@ -1,4 +1,6 @@
 @import "../header/Header.css";
+@import "../sort-box/SortBox.css";
+@import "../sort-box/Cube.scss";
 
 .container {
   display: flex;
