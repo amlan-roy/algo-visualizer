@@ -1,5 +1,4 @@
 import React from "react";
-import "../shared/Global.css";
 
 function Header({ text = `Algo Visualiser` }) {
   return (

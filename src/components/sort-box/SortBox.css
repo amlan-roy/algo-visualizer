@@ -1,0 +1,46 @@
+.sort-box-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 1em;
+  width: "100%";
+  min-height: 30em;
+  margin: 2em;
+  background: rgba(128, 128, 128, 0.306);
+}
+
+.array-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  width: "100%";
+}
+
+.btn {
+  width: 4em;
+  height: 2em;
+  background: gray;
+  color: black;
+}
+
+.array-box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-width: 6em;
+  min-height: 6em;
+  padding: 1em;
+  background: rgb(95, 117, 0);
+  color: black;
+  font-size: large;
+  font-weight: bold;
+  border: 2px solid rgb(84, 0, 0);
+}
+
+.active {
+  background: pink;
+}
+
+.found {
+  background: red;
+}
